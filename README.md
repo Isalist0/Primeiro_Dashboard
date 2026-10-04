@@ -56,15 +56,6 @@ O modelo foi construído utilizando boas práticas de modelação multidimension
 
 ---
 
-📂 Estrutura do Projeto
-
-├── Relatorio_Farmacia.pbix # Ficheiro principal do Power BI
-├── fVendas.csv            # Tabela facto de transações
-├── dProdutos.csv          # Dimensão de produtos e categorias
-├── dClientes.csv          # Dimensão de perfil de clientes
-├── dCalendario.csv        # Dimensão temporal
-└── dashboard_preview.gif  # Elemento visual/demonstração do painel
-
 📬 Contato
 Email: isabela.calisto.oliveira@gmail.com
 Feito por Isabela Calisto
