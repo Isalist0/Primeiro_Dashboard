@@ -14,7 +14,7 @@ O objetivo deste painel é fornecer uma visão analítica sobre o desempenho de 
 
 * **Power BI Desktop**: Construção do modelo de dados, medidas DAX e visualizações.
 * **Power Query**: Processamento, limpeza e transformação dos dados.
-* **Modelo de Dados (Star Schema)**: Relacionamento entre tabelas facto e dimensões para otimização de performance.
+* **Modelo de Dados (Star Schema)**: Relacionamento entre tabelas fato e dimensões para otimização de performance.
 
 ---
 
